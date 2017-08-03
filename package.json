@@ -1,0 +1,22 @@
+{
+  "name": "react_game_project",
+  "version": "1.0.0",
+  "description": "react game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preksha0821/React_Game_Project.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Preksha Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Preksha0821/React_Game_Project/issues"
+  },
+  "homepage": "https://github.com/Preksha0821/React_Game_Project#readme"
+}
